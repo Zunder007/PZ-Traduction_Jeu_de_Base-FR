@@ -1543,4 +1543,11 @@ UI_FR = {
 	UI_TermsOfService_ButtonQuit = "QUITTER",
 	UI_TermsOfService_MainMenu = "LÉGAL",
 	UI_ServerOptionDesc_CheckModsNeedUpdate = "Indique si un mod a été mis à jour. Écrit la réponse dans le fichier journal",
+
+	UI_ClothingType_Jacket_Down = "Imperméable",
+	UI_ClothingType_Jacket_Bulky = "Veste de survêtement",
+	UI_ClothingType_JacketHat_Bulky = "Doudoune",
+	UI_ClothingType_JacketSuit = "Veste de costume",
+	UI_ClothingType_Boilersuit = "Combinaison",
+	UI_ClothingType_TorsoExtraVest = "Gilet & Veste Extra",
 }
